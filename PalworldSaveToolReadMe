@@ -1,0 +1,4 @@
+This is just a packaged exe version of palworld-save-tools by cheahjs:
+[Link to cheahjs/palworld-save-tools](https://github.com/cheahjs/palworld-save-tools)
+
+I grabbed the source code by cheahjs and simply utilized pyinstaller to convert his convert.py to an exe. This was done so that Windows users don't need to install any specific python framework or worry about frameworks in general. Full credits to cheahjs for the code. I'm putting it in my release so that the bat file I've created can call the link and download it for users who use the bat.
